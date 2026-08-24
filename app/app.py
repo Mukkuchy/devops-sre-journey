@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 
 ---
 
 ## app/app.py
 
 ```python
+=======
+>>>>>>> 8c542fd (Day 1: Linux basics and project setup)
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import json
 

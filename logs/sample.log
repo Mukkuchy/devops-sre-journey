@@ -1,0 +1,5 @@
+2026-08-24T10:00:00Z INFO  app=user-api status=started
+2026-08-24T10:00:01Z ERROR app=user-api db_connection=timeout
+2026-08-24T10:00:02Z INFO  app=user-api retry=1
+2026-08-24T10:00:03Z ERROR app=user-api db_connection=refused
+2026-08-24T10:00:04Z WARN  app=user-api latency_ms=1200
