@@ -17,3 +17,8 @@ A simple REST API built with Python's standard library (`http.server`). No exter
 
 ```bash
 python3 app.py
+
+Then run
+
+curl http://localhost:5000/health
+curl http://localhost:5000/api/v1/message
